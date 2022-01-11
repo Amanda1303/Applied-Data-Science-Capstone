@@ -1,5 +1,7 @@
-# Applied-Data-Science-Capstone
+# IBM Data Science Applied Capstone - SpaceX
 
-##Editing the file
+# Amanda Vitória Santos
 
-Its a markdown file in this repository.
+The commercial space age is here and companies are making space travel affordable for everyone. Virgin Galactic is providing suborbital spaceflights. Rocket Lab is a small satellite provider. Blue Origin manufactures sub-orbital and orbital reusable rockets. Perhaps the most successful is SpaceX. SpaceX’s accomplishments include: sending spacecraft to the International Space Station; Starlink, a satellite internet constellation providing satellite Internet access; and sending manned missions to Space. One reason SpaceX can do this is the rocket launches are relatively inexpensive. SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upwards of 165 million dollars each. Much of the savings is because SpaceX can reuse the first stage. Therefore, if we can determine if the first stage will land, we can determine the cost of a launch.
+
+This capstone project course give us a taste of what data scientists go through in real life when working with real datasets. We have assumed the role of a Data Scientist working for a startup intending to compete with SpaceX, and in the process followed the Data Science methodology involving data collection, data wrangling, exploratory data analysis, data visualization, model development, model evaluation, and reporting our results to stakeholders.
